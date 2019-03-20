@@ -1,0 +1,7 @@
+---
+wp_mysql_db: raj
+wp_mysql_user: wp_raj
+wp_mysql_password: training
+
+
+
